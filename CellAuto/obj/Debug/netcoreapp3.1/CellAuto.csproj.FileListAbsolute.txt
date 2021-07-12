@@ -1,0 +1,15 @@
+C:\Users\Gigabyte\source\repos\CellAuto\obj\Debug\netcoreapp3.1\CellAuto.Form1.resources
+C:\Users\Gigabyte\source\repos\CellAuto\obj\Debug\netcoreapp3.1\CellAuto.csproj.GenerateResource.cache
+C:\Users\Gigabyte\source\repos\CellAuto\obj\Debug\netcoreapp3.1\CellAuto.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\source\repos\CellAuto\obj\Debug\netcoreapp3.1\CellAuto.AssemblyInfo.cs
+C:\Users\Gigabyte\source\repos\CellAuto\obj\Debug\netcoreapp3.1\CellAuto.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\CellAuto\bin\Debug\netcoreapp3.1\CellAuto.exe
+C:\Users\Gigabyte\source\repos\CellAuto\bin\Debug\netcoreapp3.1\CellAuto.deps.json
+C:\Users\Gigabyte\source\repos\CellAuto\bin\Debug\netcoreapp3.1\CellAuto.runtimeconfig.json
+C:\Users\Gigabyte\source\repos\CellAuto\bin\Debug\netcoreapp3.1\CellAuto.runtimeconfig.dev.json
+C:\Users\Gigabyte\source\repos\CellAuto\bin\Debug\netcoreapp3.1\CellAuto.dll
+C:\Users\Gigabyte\source\repos\CellAuto\bin\Debug\netcoreapp3.1\CellAuto.pdb
+C:\Users\Gigabyte\source\repos\CellAuto\obj\Debug\netcoreapp3.1\CellAuto.dll
+C:\Users\Gigabyte\source\repos\CellAuto\obj\Debug\netcoreapp3.1\CellAuto.pdb
+C:\Users\Gigabyte\source\repos\CellAuto\obj\Debug\netcoreapp3.1\CellAuto.genruntimeconfig.cache
+C:\Users\Gigabyte\source\repos\CellAuto\obj\Debug\netcoreapp3.1\CellAuto.csproj.AssemblyReference.cache
