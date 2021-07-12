@@ -14,15 +14,15 @@ namespace CellAuto
     {
 
         int gen = 0;
-        bool[,] currentStep = new bool[36, 98];
-        bool[,] nextStep = new bool[36, 98];
+        bool[,] currentStep = new bool[35, 98];
+        bool[,] nextStep = new bool[35, 98];
         Random rnd = new Random();
         
         public Form1()
         {
             InitializeComponent();
             dataGridView1.EndEdit();
-            dataGridView1.RowCount = 36;
+            dataGridView1.RowCount = 35;
             dataGridView1.ColumnCount = 98;
             for (int i = 0; i < dataGridView1.RowCount; i++)
             {
