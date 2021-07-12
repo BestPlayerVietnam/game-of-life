@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FvUvdCkypMjxPzL8P2cLB1wNTQbWyIwpBJ5jXDcggJia81djbU81F3VXjUHFlE4tq1jjdGkhjxvlUw+hPsRmNA==",
+  "dgSpecHash": "mm61ITL7ld/tZYKAbt2tVOSq+rR03JTt/HELruokYiAZbPPndXHxwhZldyqTsKcE8eFCaqfwUx3NOwHmrGwb6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gigabyte\\source\\repos\\CellAuto\\CellAuto.csproj",
+  "projectFilePath": "C:\\Users\\Gigabyte\\Documents\\GitHub\\game-of-life\\CellAuto\\CellAuto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

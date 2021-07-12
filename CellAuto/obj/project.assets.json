@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gigabyte\\source\\repos\\CellAuto\\CellAuto.csproj",
+      "projectUniqueName": "C:\\Users\\Gigabyte\\Documents\\GitHub\\game-of-life\\CellAuto\\CellAuto.csproj",
       "projectName": "CellAuto",
-      "projectPath": "C:\\Users\\Gigabyte\\source\\repos\\CellAuto\\CellAuto.csproj",
+      "projectPath": "C:\\Users\\Gigabyte\\Documents\\GitHub\\game-of-life\\CellAuto\\CellAuto.csproj",
       "packagesPath": "C:\\Users\\Gigabyte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gigabyte\\source\\repos\\CellAuto\\obj\\",
+      "outputPath": "C:\\Users\\Gigabyte\\Documents\\GitHub\\game-of-life\\CellAuto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gigabyte\\AppData\\Roaming\\NuGet\\NuGet.Config",
